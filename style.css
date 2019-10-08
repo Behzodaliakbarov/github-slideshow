@@ -1,0 +1,145 @@
+h1 , body , h2 , h3 , p , head {
+    margin:0px;
+    padding: 0px;
+}
+.beko {
+    background-color: #32424a;
+    font-family: sans-serif;
+    color: #fff;
+    padding: 10px 0;
+    display: inline-block;
+    width: 100%;
+    border:3px dotted coral;
+}
+.beko span {
+    color:coral;
+}
+.clas {
+    width: 70%;
+    margin: auto;
+}
+.beko ul {
+    list-style-type: none;
+    display: inline-block;
+    width: 100%;
+}
+.beko ul a {
+    color:coral;
+}
+.beko ul li {
+    display: inline-block;
+    float: right;
+    padding: 0px 10px;
+}
+.beko a:hover {
+    color:white;
+    background-color: coral;
+}
+.beko1 {
+    margin-top: 30px;
+    display: inline-block;
+}
+.beko1 .para {
+    background-image: url(image_2019-04-29_16-34-13.png);
+    filter: drop-shadow(5px 9px 2px blue);
+    height: 20vh;
+    width: 20vh;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    float: left;
+   
+}
+#para2 {
+    float: right;
+    width: 50%;
+    font-family: sans-serif
+
+}
+.beko2 {
+    font-family: sans-serif;
+    display: inline-block;
+}
+.beko2 h3 {
+    text-align: center;
+    color: #555;
+}
+#para3 {
+    background-image: url(SCAN0010(1).JPG);
+    filter: drop-shadow(5px 9px 2px blue);
+    background-size: cover;
+    height: 30vh;
+    width: 30vh;
+    float: left;
+    display: inline-block;
+}
+#para4 {
+    float: right;
+    margin-left: 20px;
+    display: inline-block;
+    width: 50%;
+    margin-top: 20px;
+
+}
+#para4 span {
+    color:coral;
+    font-size: 17px;
+}
+.beko2 ul {
+    text-align: center;
+    list-style-type: none;
+}
+.beko2 {
+    margin: 20px 0;
+}
+.beko3 {
+    border:3px dotted coral;
+    background-color: #32424a;
+    color: coral;
+    font-family: sans-serif;
+    display: inline-block;
+    width: 100%;
+}
+.beko3 h3 {
+    text-align: center;
+}
+.beko3 label input {
+    display: inline-block;
+    width: 100%;
+}
+.beko3 label input:hover {
+    background-color: coral
+}
+.beko3 button {
+    float: right;
+    padding: 5px 30px;
+    background-color: coral;
+    color: #fff;
+}
+.beko3 button:hover {
+    color:coral;
+    background-color: #fff;
+}
+.beko4 {
+    background-color:#32424a;
+    color: coral;
+}
+.beko4 .clas {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
